@@ -1,0 +1,15 @@
+{application, serial,
+ [{description, "Erlang driver for serial communication"},
+  {vsn, "1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
